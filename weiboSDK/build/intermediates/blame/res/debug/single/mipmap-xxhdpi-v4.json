@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\Weibo\\weiboSDK\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\img_def_error.jpg",
+        "source": "E:\\android\\Weibo\\weiboSDK\\build\\intermediates\\exploded-aar\\Weibo\\baselib\\unspecified\\res\\mipmap-xxhdpi-v4\\img_def_error.jpg"
+    },
+    {
+        "merged": "E:\\android\\Weibo\\weiboSDK\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\img_pictures_no.png",
+        "source": "E:\\android\\Weibo\\weiboSDK\\build\\intermediates\\exploded-aar\\Weibo\\baselib\\unspecified\\res\\mipmap-xxhdpi-v4\\img_pictures_no.png"
+    }
+]
